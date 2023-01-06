@@ -1,4 +1,4 @@
-# Connect4 Version 2 using OO
+# Connect 4 Version 2 using OO
 
 #### Refactoring of original Connect 4 project using classes.
 
